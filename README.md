@@ -1,10 +1,7 @@
 ## Lauren M. Chu
-School: Fordham University
-Major: Accounting Information Systems major
+Accounting Information Systems major at Fordham University
 
 <body>
-      <img src="file:///Users/lauren/cisc2350-assignments/lchu2.github.io/LChu_linkedin.png" alt="linkedin picture">
-
         <div class="Objective">
         <h3>Objective</h3>
         <p class="bio">Lauren is a senior at Fordham University. She is a dedicated worker and passionate about learning. Her purpose is to make a difference in the world. Lauren is seeking for a job where she will continue to hone her leadership skills and expertise in accounting/IT as well as travel around the world.</p>
