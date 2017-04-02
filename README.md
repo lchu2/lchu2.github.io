@@ -1,8 +1,9 @@
 ## Lauren M. Chu
-Accounting Information Systems major at Fordham University
+School: Fordham University
+Major: Accounting Information Systems major
 
 <body>
-      <img src="file:///Users/lauren/cisc2350-assignments/assignment4/img/LChu_linkedin.png" alt="linkedin picture">
+      <img src="file:///Users/lauren/cisc2350-assignments/lchu2.github.io/LChu_linkedin.png" alt="linkedin picture">
 
         <div class="Objective">
         <h3>Objective</h3>
@@ -33,8 +34,8 @@ Accounting Information Systems major at Fordham University
             <li>Assisted with accounts payables-entering invoices and check requests on Oracle</li>
             <li>Reviewed over 100 flex field security rules and developed new responsibility rules to improve security on Oracle for entire organization</li>
           </ul>
+          
       </section>
-
         <section id="Skills">
         <h3>Skills and Interests</h3>
         <ul>
